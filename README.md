@@ -6,3 +6,5 @@
 #Alterando Merge
 
 #Estudando Merge
+
+#Alteração colega
